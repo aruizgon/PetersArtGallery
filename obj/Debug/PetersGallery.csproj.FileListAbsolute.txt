@@ -1,0 +1,6 @@
+/Users/frankpenaayala 1/Projects/PetersGallery/PetersGallery/bin/PetersGallery.dll
+/Users/frankpenaayala 1/Projects/PetersGallery/PetersGallery/bin/PetersGallery.pdb
+/Users/frankpenaayala 1/Projects/PetersGallery/PetersGallery/obj/Debug/PetersGallery.csproj.CoreCompileInputs.cache
+/Users/frankpenaayala 1/Projects/PetersGallery/PetersGallery/obj/Debug/PetersGallery.dll
+/Users/frankpenaayala 1/Projects/PetersGallery/PetersGallery/obj/Debug/PetersGallery.pdb
+/Users/frankpenaayala 1/Projects/PetersGallery/PetersGallery/obj/Debug/PetersGallery.csprojAssemblyReference.cache
